@@ -12,6 +12,6 @@ Website: https://project-react-chat.web.app/
 
 The major languages and frameworks/libraries that are used to build this project are shown below.
 
-* Front-End: React, Firebase Authentication
-* Back-End: Cloud Firestore
+* Front-End: React
+* Back-End: Firebase Authentication, Cloud Firestore
 * Cloud Hosting: Firebase
